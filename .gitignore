@@ -1,0 +1,25 @@
+# Build folder
+/target/
+
+# IntelliJ IDEA files
+/.idea/
+/*.yml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven / Gradle wrapper files
+/.mvn/wrapper/maven-wrapper.jar
+
+# Application properties (optional, if you have secrets)
+/src/main/resources/application.properties
+/src/main/resources/application-dev.yml
+/src/main/resources/application-prod.yml
+
+# Generated jars/wars
+*.jar
+*.war
